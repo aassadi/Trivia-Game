@@ -1,0 +1,38 @@
+body{
+    background:;
+    color:rgb(65, 60, 60);
+}
+.container{
+    width : 980px;
+    height: 520px;
+    background: rgb(228, 186, 202);
+    margin-top: 50px;  
+    text-align: center;             
+}
+
+#start{
+position: relative;
+top:240px;
+font-size: 50px;
+}
+.answer{
+   
+    padding-top: 30px;
+   
+}
+#time{
+    padding-top: 30px;
+}
+#start-over{
+  background: white;
+  width: 200px;
+  position: relative;
+  left: 360px;
+  top: 20px;
+  border-radius: 5px;
+
+}
+.final{
+    position: relative;
+    bottom:  150px;
+}
